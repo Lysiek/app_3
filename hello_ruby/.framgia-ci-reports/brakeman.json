@@ -3,9 +3,9 @@
     "app_path": "/home/chhoun/app_3/hello_ruby",
     "rails_version": "5.1.6",
     "security_warnings": 0,
-    "start_time": "2018-04-09 09:04:27 +0700",
-    "end_time": "2018-04-09 09:04:27 +0700",
-    "duration": 0.141058821,
+    "start_time": "2018-04-09 09:22:08 +0700",
+    "end_time": "2018-04-09 09:22:08 +0700",
+    "duration": 0.144682996,
     "checks_performed": [
       "BasicAuth",
       "BasicAuthTimingAttack",
